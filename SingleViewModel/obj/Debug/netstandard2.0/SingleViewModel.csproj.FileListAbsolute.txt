@@ -1,0 +1,11 @@
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\bin\Debug\netstandard2.0\SingleViewModel.deps.json
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\bin\Debug\netstandard2.0\SingleViewModel.dll
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.App.xaml.g.cs
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.AssemblyInfoInputs.cache
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.AssemblyInfo.cs
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\bin\Debug\netstandard2.0\SingleViewModel.pdb
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.dll
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.pdb
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.View.Details.xaml.g.cs
+C:\Users\Samatha\Desktop\Test App\SingleViewModel\SingleViewModel\SingleViewModel\obj\Debug\netstandard2.0\SingleViewModel.View.MainPage.xaml.g.cs
